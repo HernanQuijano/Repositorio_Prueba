@@ -1,8 +1,8 @@
-# Repositorio_Prueba! 😍
+# Repositorio_Prueba! 
 Repositorio de prueba para **ingeniería de software II**
 
 
-## Comandos utilizados: 🥰
+## Comandos utilizados: 
 
 Los siguientes comandos se utilizaron el la práctica de laboratorio:
 
